@@ -1,7 +1,5 @@
 Student Submissions Folder
 
-Guys you have to use fork to create file
-
 Instructions:
 
 1. Create a file named "YourFullName".md
