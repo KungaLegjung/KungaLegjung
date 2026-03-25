@@ -1,4 +1,4 @@
-# Hi, I'm Kunga Legjung 👋
+# Hi, I'm Kunga Legjung 
 
 🎓 MCA Graduate (VTU, 2025)  
 💻 Software Developer | Backend & Data Analytics  
